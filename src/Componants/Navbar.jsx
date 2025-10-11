@@ -15,7 +15,7 @@ const Navbar = () => {
         </Link>
         <Link
           to="/reserve"
-          className="text-black m-10 no-underline  h-[40px] w-45 bg-indigo-400 rounded-md text-[15px] flex items-center justify-center hover:bg-black hover:text-white hover:cursor-pointer"
+          className="text-black m-10 no-underline h-[40px] w-45 bg-indigo-400 rounded-md text-[15px] flex items-center justify-center hover:bg-black hover:text-white hover:cursor-pointer"
         >
           RESERVE YOUR SPOT
         </Link>
