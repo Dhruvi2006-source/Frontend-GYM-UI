@@ -24,14 +24,14 @@ const About = () => {
           </div>
         </div>
         <div className="img">
-          <img src="src\assets\Aboutpage1.png" alt="" />
+          <img src="\assets\Aboutpage1.png" alt="" />
         </div>
       </div>
       {/* ---------------------------------------Second Box-------------------------------------------------------*/}
       <div className="2ndbox grid grid-cols-3 border-1 bg-slate-200">
         <div className="text col-span-2">
           <div className="">
-            <img src="src\assets\Aboutpage2.png" alt="" />
+            <img src="\assets\Aboutpage2.png" alt="" />
           </div>
         </div>
         <div className="flex flex-col justify-between p-5">
@@ -49,7 +49,7 @@ const About = () => {
       </div>
       {/* ---------------------------------------Third Box-------------------------------------------------------*/}
       <div className="3rd grid grid-cols-3 ">
-        <img src="src\assets\Aboutpage3.png" alt="" className="col-span-3" />
+        <img src="\assets\Aboutpage3.png" alt="" className="col-span-3" />
       </div>
     </div>
   );
