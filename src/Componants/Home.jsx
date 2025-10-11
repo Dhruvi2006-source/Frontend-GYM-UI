@@ -10,7 +10,7 @@ const Home = () => {
       </div>
       <div className="body1 grid grid-cols-3 border-1 bg-slate-200">
         <div className="img col-span-2 ">
-          <img src="/assets/Homepage1.png" />
+          <img src="\assets\Homepage1.png" />
         </div>
         <div className="content1 flex justify-between flex-col p-5 gap-6">
           <div className="heading font-bold font-sans leading-none text-[2.5rem]">
@@ -52,7 +52,7 @@ const Home = () => {
           </div>
         </div>
         <div className="img">
-          <img src="src\assets\Homepage2.png" />
+          <img src="\assets\Homepage2.png" />
         </div>
       </div>
       <div className="last ">
@@ -94,7 +94,7 @@ const Home = () => {
             </div>
           </div>
           <div className="img col-span-2 w-fit">
-            <img src="src\assets\Homepage3.png" className="w-7xl" />
+            <img src="\assets\Homepage3.png" className="w-7xl" />
           </div>
         </div>
       </div>
